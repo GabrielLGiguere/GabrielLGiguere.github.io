@@ -30,7 +30,7 @@ url: "https://gabriellgiguere.github.io/" # the base hostname & protocol for you
 github_username:  GabrielLGiguere
 
 # Build settings
-theme: minima
+theme: al-folio
 plugins:
   - jekyll-feed
 
